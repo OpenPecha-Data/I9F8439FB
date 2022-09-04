@@ -1,0 +1,99 @@
+id: 29dd3829fe024dedb2c8ed20e1e50bab
+annotation_type: Language
+revision: '00001'
+annotations:
+  9be97b5b45584ecd9a0e0d8b57aedb1d:
+    span:
+      start: 39
+      end: 173
+    language: en
+  75ca36f939ce43f787d87a975b7dcb39:
+    span:
+      start: 284
+      end: 638
+    language: en
+  05c755bbd2984749ad0a666c845bca45:
+    span:
+      start: 6143
+      end: 6192
+    language: en
+  1feae2cfac474178852aeaf676c63011:
+    span:
+      start: 6239
+      end: 6276
+    language: en
+  ee0f9a55046f497ba4bbaaab4fb03c81:
+    span:
+      start: 6321
+      end: 6366
+    language: en
+  b3e93d7b4c0544aca031171e2dc1b005:
+    span:
+      start: 7352
+      end: 7476
+    language: en
+  2521e447e8454121b0d1822ed011780a:
+    span:
+      start: 10367
+      end: 10518
+    language: en
+  fd73d7436e6d4dc1a3b2b22e537fffa9:
+    span:
+      start: 13302
+      end: 13448
+    language: en
+  290eea9157a2436490eca86ac9a3f6b1:
+    span:
+      start: 14344
+      end: 14503
+    language: en
+  4661c709672649c8835e44639bd51c4a:
+    span:
+      start: 15095
+      end: 15264
+    language: en
+  619913ce8e824581b1087c37b6395d45:
+    span:
+      start: 22871
+      end: 23037
+    language: en
+  235e1cb09168420d9d931087d546ce26:
+    span:
+      start: 23915
+      end: 24065
+    language: en
+  e626cd2777cb438698699755ae1271bf:
+    span:
+      start: 26919
+      end: 26939
+    language: en
+  3b689ce5c76d435ca377c8b3c785a172:
+    span:
+      start: 27327
+      end: 27349
+    language: en
+  682c708ed582494094eae879c404de1a:
+    span:
+      start: 31445
+      end: 31609
+    language: en
+  ec64af4452814dea984a3d954a47d3c3:
+    span:
+      start: 31944
+      end: 32092
+    language: en
+  963a675a042a4585a3f9bae762a0fa41:
+    span:
+      start: 34150
+      end: 34308
+    language: en
+  31aa8de766e84adf96289c7c0bb51f84:
+    span:
+      start: 34455
+      end: 34604
+    language: en
+  afa15bc62c8f4fd0b1f0d1331bb72969:
+    span:
+      start: 41776
+      end: 41925
+    language: en
